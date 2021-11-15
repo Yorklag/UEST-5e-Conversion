@@ -1,0 +1,14 @@
+{
+"DND5E.AbilityStr": "Strength",
+"DND5E.AbilityStrAbbr": "str",
+"DND5E.AbilityCon": "Endurance",
+"DND5E.AbilityConAbbr": "end",
+"DND5E.AbilityDex": "Agility",
+"DND5E.AbilityDexAbbr": "agi",
+"DND5E.AbilityInt": "Intelligence",
+"DND5E.AbilityIntAbbr": "int",
+"DND5E.AbilityWis": "Willpower",
+"DND5E.AbilityWisAbbr": "wil",
+"DND5E.AbilityCha": "Personality",
+"DND5E.AbilityChaAbbr": "per",
+}

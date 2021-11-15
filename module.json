@@ -1,0 +1,33 @@
+{
+    "name": "elder-scrolls-5e",
+    "title": "Unoficial UESTRPG 5th ediditon conversion",
+    "description": "A conversion for the unoficial elder scrolls tabletop rpg ",
+    "version": "1.0.0",
+    "author": "Cafnuar",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.9",
+	"system": ["dnd5e"],
+	"packs":[
+	{
+		"name":"uest-class-features",
+		"label":"UEST Class Features",
+		"path": "/packs/uest-class-features.db",
+		"entity": "Item"
+	}
+	],
+	"languages": [
+	{
+		"lang": "en",
+		"name": "English",
+		"path": "/lang/en.json"
+	}
+	],
+	"dependencies":[
+	{
+		"name": "dnd5e-spellpoints",
+		"manifest": "https://raw.githubusercontent.com/misthero/dnd5e-spellpoints/main/module.json"
+	}
+	],
+    "manifest": "",
+    "download": ""
+}
