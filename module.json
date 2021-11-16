@@ -28,6 +28,7 @@
 		"manifest": "https://raw.githubusercontent.com/misthero/dnd5e-spellpoints/main/module.json"
 	}
 	],
-    "manifest": "",
-    "download": ""
+    "url":"https://github.com/Yorklag/UEST-5e-Conversion",
+	"manifest": "https://github.com/Yorklag/UEST-5e-Conversion/releases/download/untagged-6f1bbe765c9b83fc2350/module.json",
+    "download": "https://github.com/Yorklag/UEST-5e-Conversion/releases/download/untagged-6f1bbe765c9b83fc2350/UEST-5e-Conversion.zip"
 }
