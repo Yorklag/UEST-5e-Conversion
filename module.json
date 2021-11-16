@@ -13,6 +13,24 @@
 		"label":"UEST Class Features",
 		"path": "/packs/uest-class-features.db",
 		"entity": "Item"
+	},
+	{
+		"name":"uest-classes",
+		"label":"UEST Classes",
+		"path":"/packs/uest-classes.db",
+		"entity":"Item"
+	},
+	{
+		"name":"uest-races",
+		"label":"UEST Races",
+		"path":"/packs/uest-races.db",
+		"entity":"Item"
+	},
+	{
+		"name":"uest-birthhsigns",
+		"label":"UEST Birthsigns",
+		"path":"/packs/uest-birthsigns.db",
+		"entity":"Item"
 	}
 	],
 	"dependencies":[
