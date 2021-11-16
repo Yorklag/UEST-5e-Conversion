@@ -2,7 +2,7 @@
     "name": "UEST-5e-Conversion",
     "title": "Unofficial UESTRPG 5th edition conversion",
     "description": "A conversion for the unofficial elder scrolls tabletop rpg ",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "author": "Michael Tendy",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
@@ -18,6 +18,12 @@
 		"name":"uest-classes",
 		"label":"UEST Classes",
 		"path":"/packs/uest-classes.db",
+		"entity":"Item"
+	},
+	{
+		"name":"uest-subclasses",
+		"label":"UEST Sublasses",
+		"path":"/packs/uest-subclasses.db",
 		"entity":"Item"
 	},
 	{
