@@ -15,13 +15,6 @@
 		"entity": "Item"
 	}
 	],
-	"languages": [
-	{
-		"lang": "en",
-		"name": "English",
-		"path": "/lang/en.json"
-	}
-	],
 	"dependencies":[
 	{
 		"name": "dnd5e-spellpoints",
