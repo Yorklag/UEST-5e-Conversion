@@ -1,9 +1,9 @@
 {
     "name": "UEST-5e-Conversion",
-    "title": "Unoficial UESTRPG 5th ediditon conversion",
-    "description": "A conversion for the unoficial elder scrolls tabletop rpg ",
+    "title": "Unofficial UESTRPG 5th ediditon conversion",
+    "description": "A conversion for the unofficial elder scrolls tabletop rpg ",
     "version": "1.0.0",
-    "author": "Cafnuar",
+    "author": "Michael Tendy",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
 	"system": ["dnd5e"],
