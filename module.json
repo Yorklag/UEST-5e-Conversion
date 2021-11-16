@@ -37,6 +37,12 @@
 		"label":"UEST Birthsigns",
 		"path":"/packs/uest-birthsigns.db",
 		"entity":"Item"
+	},
+	{
+		"name":"uest-racial-traits",
+		"label":"UEST Racial Traits",
+		"path":"/packs/uest-racial-traits.db",
+		"entity":"Item"
 	}
 	],
 	"dependencies":[
