@@ -2,7 +2,7 @@
     "name": "UEST-5e-Conversion",
     "title": "Unofficial UESTRPG 5th edition conversion",
     "description": "A conversion for the unofficial elder scrolls tabletop rpg ",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "Michael Tendy",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
