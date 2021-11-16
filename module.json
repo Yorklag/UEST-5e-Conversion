@@ -29,6 +29,6 @@
 	}
 	],
     "url":"https://github.com/Yorklag/UEST-5e-Conversion",
-	"manifest": "",
-    "download": ""
+	"manifest": "https://github.com/Yorklag/UEST-5e-Conversion/releases/download/v0.1.0/module.json",
+    "download": "https://github.com/Yorklag/UEST-5e-Conversion/releases/download/v0.1.0/UEST-5e-Conversion.zip"
 }
